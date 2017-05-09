@@ -1,5 +1,6 @@
-Author
-Waldemar Schledewitz, John Smith
+notepad Author
+Waldemar Schledewitz, University of Manchester
+John Smith, University of Elsewhere
 
 Title:
 Holography in aerodynamic Meteorology from BVOCs and Software development
