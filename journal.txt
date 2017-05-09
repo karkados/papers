@@ -20,3 +20,6 @@ sdlfajsdlfkja
 sdgkjas;aeifjas
 dvzxldfiewap
 flaskdfj lakjf i;adif a'ewfi
+
+Methodology:
+We use HALOHOLO and Matlab for postprocessing as described in A.BCD 2011.
