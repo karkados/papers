@@ -1,8 +1,8 @@
 Author
-Waldemar Schledewitz
+Waldemar Schledewitz, John Smith
 
 Title:
-Holography in Meteorology
+Holography in Meteorology and Software development
 
 Introduction:
 This paper presents the technique of using Holography
