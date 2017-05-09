@@ -4,6 +4,9 @@ Waldemar Schledewitz, John Smith
 Title:
 Holography in aerodynamic Meteorology from BVOCs and Software development
 
+Abstract:
+We present here findings from our in-situ measurements.
+
 Introduction:
 This paper presents the technique of using Holography
 for measuring particles in the atmosphere
