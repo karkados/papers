@@ -24,5 +24,9 @@ flaskdfj lakjf i;adif a'ewfi
 Methodology:
 We use HALOHOLO and Matlab for postprocessing as described in A.BCD 2011.
 
+Results:
+The instrument and software did a fair job of catching the basic information
+about ice particles in clouds.
+
 Conclusion:
 Perfect. Science has been rewritten!
