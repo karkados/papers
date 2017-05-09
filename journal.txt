@@ -1,5 +1,5 @@
 Author
-Waldemar Schledewitz, John Smith
+John Smith, Waldemar Schledewitz
 
 Title:
 Holography in aerodynamic Meteorology from BVOCs and Software development
