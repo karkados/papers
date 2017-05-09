@@ -3,3 +3,8 @@ Waldemar Schledewitz
 
 Title:
 Holography in Meteorology
+
+Introduction:
+This paper presents the technique of using Holography
+for measuring particles in the atmosphere
+with a laser.
